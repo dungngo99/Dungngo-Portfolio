@@ -28,7 +28,7 @@ const AboutMe = () => {
         <MDBRow className='text-left mb-5'>
           <MDBCol lg="5" className='dn-about-me-img'>
             <MDBView className="rounded z-depth-2 mb-lg-0 mb-4" hover waves>
-              <img className="img-fluid" src="https://c1.wallpaperflare.com/preview/480/45/109/book-business-can-designer.jpg" alt="" />
+              <img className="img-fluid" src="https://i.ibb.co/r6NJ3H5/CE8-F1-DE1-4-E69-48-FD-94-EC-B83867-F954-E4.jpg" alt="" />
               <a href="#!"><MDBMask overlay="white-slight" /></a>
             </MDBView>
           </MDBCol>

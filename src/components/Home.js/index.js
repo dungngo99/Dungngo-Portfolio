@@ -26,7 +26,7 @@ const Home = ({ id }) => {
             <footer className="blockquote-footer"><cite title="Source Title">Walt Disney</cite></footer>
           </blockquote>
           <div className='d-flex justify-content-center align-items-center'>
-            <MDBBtn href="https://drive.google.com/file/d/1wrRP-Cie2CYdxMZF6DOOF74mk7YMSxnA/view" color='amber' className='btn-download-cv' target='_blank' style={{ 'width': '170px' }}>View Resume</MDBBtn>
+            <MDBBtn href="https://drive.google.com/file/d/1M3kjs2vdyN1SmQ_GUYJZyEg7rVi8EI-p/view?usp=sharing" color='amber' className='btn-download-cv' target='_blank' style={{ 'width': '170px' }}>View Resume</MDBBtn>
           </div>
         </div>
       </MDBCardBody>
